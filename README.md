@@ -3,7 +3,7 @@
 <p align="center">Desenvolvido durante o aprendizado com a Flutterando Master Class.</p>
 
 <p align="center">
-<img width="170" height="300" src="assets/images/login.gif"/>
+<img width="290" height="500" src="assets/images/login.gif"/>
 
 
 </p>
